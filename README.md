@@ -1,4 +1,5 @@
 # myjs
 
-\01 > callback functions and input terminal on node.js
-\02 > 
+\01 > input terminal on node.js
+\02 > debugging arrow anonymous function immediataly invoked
+\03 > callback function
